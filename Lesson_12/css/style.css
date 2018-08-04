@@ -1,0 +1,46 @@
+.header {
+	font-size: 20px;
+	line-height:  1.5;
+	margin: 60px auto;
+}
+.header span {
+	display: block;
+}
+.container {
+	/*border: 2px solid red;*/
+}
+.col-lg-6 {
+	/*border: 2px solid red;*/
+}
+.col-lg-4 {
+		border: 5px solid blue;
+}
+.form-holder {
+	font-size: 20px;
+	font-weight: 900;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.btn {
+	margin: 10px auto;
+}
+.input-group{
+	margin-bottom: 12px;
+	/*border: 2px solid red;*/
+}
+.section {
+	background-color: gray;
+}
+.section-two {
+	margin: 60px auto;
+	font-size: 20px;
+	font-weight: 900;
+}
+.section-holder {
+	margin-bottom: 60px;
+}
+.feature-box p {
+	margin-top: 15px;
+
+}
