@@ -1,0 +1,57 @@
+.row {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	jc
+}
+.lines {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: center;
+	background-color: pink;
+}
+.mini {
+	height: 20px;
+	background-color: #fff;
+}
+.flex-item {
+	h50px
+}
+.boxss {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: grey;
+	margin: 10px;
+	border: 2px solid black;
+	height: 50px;
+}
+.header {
+	text-align: center;
+	margin: 50px 50px;
+}
+ .bee {
+	text-align: center;
+}
+.container-flex {
+	display: flex;
+	justify-content: space-around;
+	display: flex;
+	margin-top: 50px;
+}
+.box {
+	display: flex;
+	height: 250px;
+	width: 250px;
+	justify-content: center;
+	align-items: center;
+	background-color: gray;
+	text-align: center;
+}
+span {
+	display: block;
+}
